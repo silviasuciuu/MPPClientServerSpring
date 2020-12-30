@@ -1,0 +1,249 @@
+29 Mar 2020 16:48:03,018 INFO  repos.AngajatOficiuRepo 23 <init> - Init repos.AngajatOficiuRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:48:59,846 INFO  repos.AngajatOficiuRepo 23 <init> - Init repos.AngajatOficiuRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:11,483 INFO  repos.AngajatOficiuRepo 23 <init> - Init repos.AngajatOficiuRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:11,502 INFO  repos.ArtistRepo 17 <init> - Init repos.ArtistRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:11,505 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:11,507 INFO  repos.ArtistiSpectacolRepo 16 <init> - Init repos.ArtistiSpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:11,755 TRACE repos.ArtistRepo 77 getAll - Exit
+29 Mar 2020 16:49:11,836 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:11,841 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:11,935 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,936 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 2
+29 Mar 2020 16:49:11,938 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,939 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:49:11,941 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,942 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:49:11,944 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,945 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:11,947 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,947 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:11,950 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:11,951 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 2
+29 Mar 2020 16:49:11,954 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,955 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:49:11,959 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,959 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:49:11,964 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,965 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:11,966 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:11,969 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:49:11,973 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,974 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:49:11,980 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,981 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:11,983 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:11,987 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 2
+29 Mar 2020 16:49:11,993 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:11,994 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:49:11,999 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:12,000 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:12,005 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:12,006 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,008 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,012 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:12,017 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:12,018 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:49:12,022 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:12,022 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:49:12,025 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:12,026 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,028 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,031 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,031 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,044 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:12,047 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:12,047 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,048 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,049 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,050 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,052 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,053 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,055 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,056 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,058 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,058 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,060 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:12,061 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:12,062 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,062 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,063 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,064 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,065 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,065 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,067 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,067 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,068 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,068 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,070 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,070 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,072 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,072 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,074 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,074 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,076 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:12,076 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:12,078 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:49:23,634 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:23,635 INFO  repos.ArtistRepo 17 <init> - Init repos.ArtistRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:23,635 INFO  repos.ArtistiSpectacolRepo 16 <init> - Init repos.ArtistiSpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:23,637 TRACE repos.SpectacolRepo 141 cautaDupaZi - Exit
+29 Mar 2020 16:49:23,638 TRACE repos.ArtistiSpectacolRepo 61 cautaArtisti - Enter Search artists with id 1
+29 Mar 2020 16:49:23,638 INFO  repos.ArtistRepo 17 <init> - Init repos.ArtistRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:23,640 TRACE repos.ArtistRepo 84 cauta - Enter search artist  with id 1
+29 Mar 2020 16:49:23,642 TRACE repos.ArtistRepo 103 cauta - Exit
+29 Mar 2020 16:49:23,643 TRACE repos.ArtistRepo 84 cauta - Enter search artist  with id 5
+29 Mar 2020 16:49:23,645 TRACE repos.ArtistRepo 103 cauta - Exit
+29 Mar 2020 16:49:23,645 TRACE repos.ArtistRepo 84 cauta - Enter search artist  with id 4
+29 Mar 2020 16:49:23,647 TRACE repos.ArtistRepo 103 cauta - Exit
+29 Mar 2020 16:49:23,648 TRACE repos.ArtistiSpectacolRepo 86 cautaArtisti - Exit
+29 Mar 2020 16:49:23,649 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,650 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,650 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,652 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,652 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,653 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,654 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,655 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,655 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,656 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,657 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,658 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,659 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,660 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,660 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,662 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,662 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,664 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,664 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,666 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,666 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,668 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,671 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:49:23,673 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,673 TRACE repos.ArtistiSpectacolRepo 61 cautaArtisti - Enter Search artists with id 5
+29 Mar 2020 16:49:23,673 INFO  repos.ArtistRepo 17 <init> - Init repos.ArtistRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:49:23,675 TRACE repos.ArtistRepo 84 cauta - Enter search artist  with id 1
+29 Mar 2020 16:49:23,676 TRACE repos.ArtistRepo 103 cauta - Exit
+29 Mar 2020 16:49:23,677 TRACE repos.ArtistRepo 84 cauta - Enter search artist  with id 7
+29 Mar 2020 16:49:23,678 TRACE repos.ArtistRepo 103 cauta - Exit
+29 Mar 2020 16:49:23,678 TRACE repos.ArtistRepo 84 cauta - Enter search artist  with id 12
+29 Mar 2020 16:49:23,680 TRACE repos.ArtistRepo 103 cauta - Exit
+29 Mar 2020 16:49:23,681 TRACE repos.ArtistiSpectacolRepo 86 cautaArtisti - Exit
+29 Mar 2020 16:49:23,681 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,682 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,683 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,684 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,684 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,686 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,686 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,687 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,687 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,689 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,689 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,690 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,690 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,692 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,692 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,693 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,694 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,695 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,695 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,697 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,697 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,698 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:49:23,698 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:49:23,700 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,317 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:50:27,343 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,344 TRACE repos.AngajatOficiuRepo 57 vinde - Enter vinde 2 bilete la spectacolul cu id-ul 3,cumparaatorului cu numele ion vasile 
+29 Mar 2020 16:50:27,345 INFO  repos.BiletRepo 18 <init> - Init repos.BiletRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,345 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,347 TRACE repos.BiletRepo 36 adauga - Enter save ticket model.Bilet@e25651f
+29 Mar 2020 16:50:27,521 TRACE repos.BiletRepo 54 adauga - Exit
+29 Mar 2020 16:50:27,522 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:50:27,526 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,526 TRACE repos.SpectacolRepo 90 modifica - Enter modify concert model.Spectacol@37c6a779
+29 Mar 2020 16:50:27,670 TRACE repos.SpectacolRepo 113 modifica - Exit
+29 Mar 2020 16:50:27,670 TRACE repos.AngajatOficiuRepo 67 vinde - Exit
+29 Mar 2020 16:50:27,672 TRACE repos.ArtistRepo 77 getAll - Exit
+29 Mar 2020 16:50:27,672 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,674 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:50:27,675 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,676 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 2
+29 Mar 2020 16:50:27,677 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,677 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:50:27,679 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,679 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:50:27,681 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,681 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:50:27,683 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,683 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,683 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,684 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 2
+29 Mar 2020 16:50:27,686 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,686 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:50:27,688 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,688 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:50:27,690 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,690 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,690 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,692 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:50:27,693 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,694 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:50:27,696 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,696 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,697 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,698 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 2
+29 Mar 2020 16:50:27,700 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,701 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:50:27,703 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,703 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:50:27,706 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,706 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,706 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,708 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 1
+29 Mar 2020 16:50:27,709 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,710 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 3
+29 Mar 2020 16:50:27,711 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,712 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 4
+29 Mar 2020 16:50:27,714 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,714 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,714 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,715 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,715 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,717 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:50:27,719 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,719 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,719 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,721 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,721 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,723 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,723 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,725 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,725 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,726 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,727 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,728 TRACE repos.SpectacolRepo 64 cauta - Enter search concert with id 5
+29 Mar 2020 16:50:27,731 TRACE repos.SpectacolRepo 84 cauta - Exit
+29 Mar 2020 16:50:27,731 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,731 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,732 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,732 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,733 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,734 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,735 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,736 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,738 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,738 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,740 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,741 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,742 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,743 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,744 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,744 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,746 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:27,746 INFO  repos.SpectacolRepo 20 <init> - Init repos.SpectacolRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+29 Mar 2020 16:50:27,748 TRACE repos.ArtistiSpectacolRepo 114 cautaSpectaole - Exit
+29 Mar 2020 16:50:36,794 INFO  repos.AngajatOficiuRepo 23 <init> - Init repos.AngajatOficiuRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPClientServer//bazededate 
+30 Mar 2020 17:57:09,973 INFO  repos.AngajatOficiuRepo 23 <init> - Init repos.AngajatOficiuRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPProiect//bazededate 
+30 Mar 2020 17:58:35,845 INFO  repos.AngajatOficiuRepo 23 <init> - Init repos.AngajatOficiuRepo with properties: jdbc:sqlite:C://Users//Silvia//Desktop//MPPProiect//bazededate 

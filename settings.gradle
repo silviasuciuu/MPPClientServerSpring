@@ -1,0 +1,8 @@
+rootProject.name = 'MPPClientServer'
+include 'Model'
+include 'Persistence'
+include 'Services'
+include 'Client'
+include 'Networking'
+include 'Server'
+
