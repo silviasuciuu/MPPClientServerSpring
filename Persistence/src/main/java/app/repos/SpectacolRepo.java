@@ -1,4 +1,4 @@
-package repos;
+package app.repos;
 
 import model.Spectacol;
 import org.apache.logging.log4j.LogManager;
@@ -12,11 +12,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SpectacolRepo implements InterfataSpectacolRepo {
-    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer(1)\\MPPClientServer\\bazededate";
+    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer\\bazededate";
     private static final Logger logger = LogManager.getLogger();
 
     public SpectacolRepo(String url) {
-        logger.info("Init repos.SpectacolRepo with properties: {} ", url);
+        logger.info("Init app.repos.SpectacolRepo with properties: {} ", url);
     }
 
     public Connection connect() {

@@ -5,9 +5,7 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import model.AngajatOficiu;
-import objectprotocol.ClientWorker;
-import objectprotocol.ProxyService;
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import services.AppServices;
@@ -29,7 +27,7 @@ public class StartClient extends Application {
 
         ApplicationContext factory=new ClassPathXmlApplicationContext("classpath:spring-client.xml");
         AppServices server=(AppServices)factory.getBean("appService");
-        System.out.println("Obtainned a reference to remote server");
+        System.out.println("Obtainned a reference to remote app.server");
 
 
 

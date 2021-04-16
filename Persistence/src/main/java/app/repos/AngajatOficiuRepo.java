@@ -1,4 +1,4 @@
-package repos;
+package app.repos;
 
 import model.AngajatOficiu;
 import model.Artist;
@@ -14,16 +14,16 @@ import java.util.List;
 
 
 public class AngajatOficiuRepo implements InterfataAngajatRepo {
-    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer(1)\\MPPClientServer\\bazededate";
+    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer\\bazededate";
     private static final Logger logger = LogManager.getLogger();
 
     public AngajatOficiuRepo(String url)
     {
-        logger.info("Init repos.AngajatOficiuRepo with properties: {} ",url);
+        logger.info("Init app.repos.AngajatOficiuRepo with properties: {} ",url);
     }
 
     public AngajatOficiuRepo() {
-        this.url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer(1)\\MPPClientServer\\bazededate";
+        this.url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer\\bazededate";
     }
 
     @Override

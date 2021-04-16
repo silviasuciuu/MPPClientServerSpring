@@ -4,10 +4,10 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
 
 
-    <bean id="corectorRepo" class="repos.AngajatOficiuRepo"/>
-    <bean id="lucrareRepo" class="repos.BiletRepo"/>
+    <bean id="corectorRepo" class="app.repos.AngajatOficiuRepo"/>
+    <bean id="lucrareRepo" class="app.repos.BiletRepo"/>
 
-    <bean id="appService" class="server.ServicesImpl">
+    <bean id="appService" class="app.server.ServicesImpl">
         <constructor-arg ref="corectorRepo"/>
         <constructor-arg ref="lucrareRepo"/>
     </bean>

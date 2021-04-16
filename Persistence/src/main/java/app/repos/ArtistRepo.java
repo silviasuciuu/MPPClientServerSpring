@@ -1,23 +1,24 @@
-package repos;
+package app.repos;
 
 import model.Artist;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.springframework.stereotype.Component;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
+@Component
 public class ArtistRepo implements InterfataArtistRepo {
-    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer(1)\\MPPClientServer\\bazededate";
+    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer\\bazededate";
     private static final Logger logger = LogManager.getLogger();
 
     public ArtistRepo(String url) {
-        logger.info("Init repos.ArtistRepo with properties: {} ", url);
+        logger.info("Init app.repos.ArtistRepo with properties: {} ", url);
     }
 
     public ArtistRepo() {
-        this.url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer(1)\\MPPClientServer\\bazededate";
+        this.url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer\\bazededate";
     }
 
     @Override

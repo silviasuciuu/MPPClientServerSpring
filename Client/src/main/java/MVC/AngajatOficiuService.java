@@ -15,13 +15,10 @@ import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.Stage;
 
 import model.*;
-import repos.*;
 import services.AppException;
 import services.AppServices;
 import services.Observer;
 
-import javax.swing.*;
-import javax.swing.text.DateFormatter;
 import java.io.IOException;
 import java.net.URL;
 import java.rmi.RemoteException;
@@ -31,8 +28,6 @@ import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 public class AngajatOficiuService extends UnicastRemoteObject implements Initializable, Observer {

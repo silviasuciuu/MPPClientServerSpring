@@ -1,4 +1,4 @@
-package repos;
+package app.repos;
 
 import model.Bilet;
 import org.apache.logging.log4j.LogManager;
@@ -10,15 +10,15 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class BiletRepo implements InterfataBiletRepo {
-    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer(1)\\MPPClientServer\\bazededate";
+    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer\\bazededate";
     private static final Logger logger = LogManager.getLogger();
 
     public BiletRepo(String url) {
-        logger.info("Init repos.BiletRepo with properties: {} ", url);
+        logger.info("Init app.repos.BiletRepo with properties: {} ", url);
     }
 
     public BiletRepo() {
-        this.url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer(1)\\MPPClientServer\\bazededate";
+        this.url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer\\bazededate";
     }
 
     @Override

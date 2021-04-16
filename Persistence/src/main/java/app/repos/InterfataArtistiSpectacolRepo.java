@@ -1,4 +1,4 @@
-package repos;
+package app.repos;
 
 import model.Artist;
 import model.Spectacol;

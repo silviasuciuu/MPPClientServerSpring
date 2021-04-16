@@ -1,4 +1,4 @@
-package repos;
+package app.repos;
 
 import model.Artist;
 import model.ArtistiSpectacol;
@@ -12,10 +12,10 @@ import java.util.List;
 
 public class ArtistiSpectacolRepo implements InterfataArtistiSpectacolRepo {
     public ArtistiSpectacolRepo(String url) {
-        logger.info("Init repos.ArtistiSpectacolRepo with properties: {} ",url);
+        logger.info("Init app.repos.ArtistiSpectacolRepo with properties: {} ",url);
     }
     private static final Logger logger = LogManager.getLogger();
-    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer(1)\\MPPClientServer\\bazededate";
+    private String url="jdbc:sqlite:C:\\Users\\User\\Desktop\\MPPClientServer\\bazededate";
 
     @Override
     public Connection connect() {

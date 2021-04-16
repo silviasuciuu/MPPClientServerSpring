@@ -1,4 +1,4 @@
-package repos;
+package app.repos;
 
 import model.Spectacol;
 

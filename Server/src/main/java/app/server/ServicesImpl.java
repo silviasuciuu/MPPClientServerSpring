@@ -1,14 +1,12 @@
-package server;
+package app.server;
 
 import model.*;
-import repos.*;
+import app.repos.*;
 import services.AppException;
 import services.AppServices;
 import services.Observer;
 
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.rmi.RemoteException;
 import java.sql.SQLException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -82,7 +80,7 @@ public class ServicesImpl implements AppServices {
 
     @Override
     public List<DateTabel> getAllShows() throws AppException, SQLException, IOException {
-        System.out.println(getProp()+"PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        System.out.println(getProp());
 
         InterfataArtistRepo artistRepo=new ArtistRepo(getProp());
         InterfataArtistiSpectacolRepo artistSpectacolRepo=new ArtistiSpectacolRepo(getProp());
