@@ -11,6 +11,8 @@ public class Artist extends Entity<String> implements Serializable {
         this.nume = nume;
     }
 
+    public Artist() {
+    }
 
     public String getId() {
         return id;
